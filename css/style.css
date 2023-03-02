@@ -1,0 +1,74 @@
+body {
+background-color: ivory;
+}
+
+h1 {
+background-color: olive;
+font-family: 'Tilt Warp', cursive;
+font-size: 30px;
+padding: 10px;
+margin: 40px;
+position: sticky;
+top: 0px;
+}
+/* nav {
+  font-family: 'Tilt Warp', cursive;
+  font-size: 15px;
+  display: flex;
+  justify-content:flex-end;
+  padding: 10px;
+  margin: 10px;
+} */
+
+li {
+  display: block;
+  text-align: right;  
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  position:sticky;
+  top: 0px;
+}
+#hero {
+  background-color: ivory;
+  display: flex;
+  justify-content: flex-start;
+  padding:20px;
+  margin: 50px;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+  padding: 40px;
+  width: 500px;
+}
+button {
+  font-family: 'Tilt Warp', cursive;
+  font-size: 15px;
+  margin: 40px;
+  background-color: goldenrod;
+  border: 3px solid olive
+}
+
+#side-banner {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 40px;
+  padding: 20px;
+  position: relative;
+  width: 1000px;
+}
+span {
+  font-family: 'PT Serif', serif;
+  font-size: 15px;
+  padding: 40px;
+  width: 300px;
+}
+footer {
+  background-color: olive;
+  color: ivory;
+  font-family:'Tilt Warp', cursive;
+  font-size: 35px;
+  text-align: center;
+}
